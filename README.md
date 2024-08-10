@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Nicolas</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" width="40" height="40"/></h1>
 <h3 align="center">Java developer</h3>
 
 ## 👨🏻‍💻 About Me
